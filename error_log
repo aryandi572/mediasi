@@ -1,0 +1,5 @@
+[01-Feb-2018 03:52:02 UTC] PHP Fatal error:  Call to a member function m_count_all_artikel() on null in /home/mediasis/public_html/application/controllers/MedController.php on line 100
+[05-Feb-2018 02:30:23 UTC] PHP Fatal error:  Call to undefined function m_cek_artikel_stat_id() in /home/mediasis/public_html/application/controllers/MedController.php on line 109
+[05-Feb-2018 02:30:52 UTC] PHP Fatal error:  Call to undefined function m_cek_artikel_stat_id() in /home/mediasis/public_html/application/controllers/MedController.php on line 109
+[05-Feb-2018 02:32:04 UTC] PHP Fatal error:  Call to undefined function m_cek_artikel_stat_id() in /home/mediasis/public_html/application/controllers/MedController.php on line 109
+[05-Feb-2018 02:32:04 UTC] PHP Fatal error:  Call to undefined function m_cek_artikel_stat_id() in /home/mediasis/public_html/application/controllers/MedController.php on line 109
